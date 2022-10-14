@@ -7,9 +7,8 @@ const Data = ()=>{
   
 return(
     <div>
-<nav>
-        <ul>
-         
+      <nav>
+        <ul> 
           <li>
             <Link to="/blogs1">Blogs1</Link>
           </li>
